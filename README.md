@@ -23,7 +23,7 @@ This Python script runs on a Raspberry Pi (or any Linux server) and monitors cha
 
     Clone the repository:
 
-    git clone https://github.com/lukron55/DM-Friend-IP.git
+    git clone https://github.com/lukron55/DM-Friend-IP-V2.git
     cd DM-Friend-IP
 
 
